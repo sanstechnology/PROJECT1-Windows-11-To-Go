@@ -25,3 +25,6 @@ Hold Option while starting up with the WinToUSB and select the USB, connect a wi
 If the Bootloader is locked then boot into the BIOS first and then boot back in the bootloader befor going to the local Windows Installation.
 
 Existing Issue: Browsing the Internet not working
+# <img width="300" alt="IMG_1374" src="https://github.com/sanstechnology/Project1...WinToGo/assets/143093663/318b80c5-824a-4498-8aad-ee6be0c49c36">
+# sans. technologies 
+## Credit to NotArxy, CHXMPION, TechMateNS, TechMateAK
